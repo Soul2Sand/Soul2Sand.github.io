@@ -8,3 +8,7 @@ body {
 	color: red;
 	background-color: black;
 }
+
+.hello:link {
+        color: white;
+}
