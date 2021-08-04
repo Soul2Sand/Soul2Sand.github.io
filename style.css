@@ -12,3 +12,7 @@ body {
 .hello:link {
         color: white;
 }
+
+marquee {
+        color: red;
+}
