@@ -8,6 +8,7 @@ body{
 	color: red;
 	background-color: black;
         background-image: url(img/logo.png);
+        background-repeat: reapeat-x;
 }
 
 .hello:link{
